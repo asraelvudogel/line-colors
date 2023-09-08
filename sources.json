@@ -28,6 +28,23 @@
         ]
     },
     {
+        "shortOperatorName": "nah-sh",
+        "contributors": [
+            {
+                "github": "asraelvudogel"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NAH.SH Bahnlinienplan",
+                "source": "https://www.nah.sh/assets/2023/nahsh_bahnlinienSH_2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-db-sbahn",
         "contributors": [
             {
@@ -38,6 +55,20 @@
             {
                 "name": "Netzplan S-Bahn Berlin",
                 "source": "https://sbahn.berlin/liniennetz/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrs-stadtbahn",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz VRS",
+                "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
             }
         ]
     },
